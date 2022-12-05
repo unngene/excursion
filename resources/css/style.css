@@ -23,6 +23,11 @@ body {
     color: #808080;
 }
 
+.header--last-header {
+    text-align: right;
+    color: #808080;
+}
+
 /* LINKS */
 
 .link--cta {
